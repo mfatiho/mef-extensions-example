@@ -1,0 +1,5 @@
+#plugins-dir : ..\..\..\..\..\plugins
+plugins-dir : D:\Projects\GitHub\mef-extensions-example\plugins
+plugins:
+ - mef-extensions-example-export-substract.dll
+ - mef-extensions-example-export-sum.dll
